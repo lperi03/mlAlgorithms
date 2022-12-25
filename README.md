@@ -1,2 +1,2 @@
 # mlAlgorithms
- A curated list of popular machine learning algorithms, written in Python. 
+ A curated list of skeleton codes for popular machine learning algorithms.
